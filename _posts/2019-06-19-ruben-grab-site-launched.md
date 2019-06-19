@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Ruben-Laurentiu Grab, Romania, Launches Site"
 date: 2019-06-19
 ---
 
